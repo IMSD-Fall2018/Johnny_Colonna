@@ -67,6 +67,7 @@
     <Compile Include="Assets\Klak\Syphon\Internal\SyphonCommon.cs" />
     <Compile Include="Assets\Klak\Syphon\Runtime\SyphonClient.cs" />
     <Compile Include="Assets\Klak\Syphon\Runtime\SyphonServer.cs" />
+    <Compile Include="Assets\MoveKiller.cs" />
     <Compile Include="Assets\Spawner.cs" />
     <None Include="Assets\Klak\Syphon\Internal\Resources\Blit.shader" />
     <Reference Include="UnityEditor.StandardEvents">
